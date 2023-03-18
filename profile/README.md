@@ -6,7 +6,7 @@
 
 Bunkr enables asset protection on Solana by utilizing the widely known TOTP (**T**ime-based **O**ne**T**ime **P**assword) 2FA standard that can be found [here](https://en.wikipedia.org/wiki/Time-based_one-time_password). 
 
-It it compatible with all major Authentication Apps and is frequently used in web2 as a means to secure account access
+It is compatible with all major Authentication Apps and is frequently used in web2 as a means to secure account access
 
 ## ❌ Problem
 Wallet security is still lacking inside web2 and on Solana. 
@@ -49,3 +49,10 @@ And you're totally right. The storage of the tree is a non-trivial task. Not onl
 
 - The user doesn't need to store an extra password
 - An attacked needs to have access to the users private key to even start an attempt at cracking the OTP codes.
+
+## 🕣 More Info and a full security spec coming soon...
+ 
+In the meantime, if you'd like to take a look at any of the transactions, the early version of the Bunkr program is deployed on mainnet at: 
+```
+BunKrGBXdGxyTLjvE44eQXDuKY7TyHZfPu9bj2Ugk5j2
+```
