@@ -50,7 +50,7 @@ And you're totally right. The storage of the tree is a non-trivial task. Not onl
 - The user doesn't need to store an extra password
 - An attacked needs to have access to the users private key to even start an attempt at cracking the OTP codes.
 
-## 🕣 More Info and a full security spec coming soon...
+## 🔒 A rough, but full explanation of the security spec can be found [here](https://gist.github.com/iceomatic/fccf555972f21dbede259fd152343a8a)
  
 In the meantime, if you'd like to take a look at any of the transactions, the early version of the Bunkr program is deployed on mainnet at: 
 ```
