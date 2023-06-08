@@ -48,7 +48,7 @@ And you're totally right. The storage of the tree is a non-trivial task. Not onl
 **Solution:** The leaves of the tree are stored encrypted on [ShadowDrive](https://docs.genesysgo.com/shadow/shadow-drive). The encryption key is derived from a message the user signs when logging into their Bunkr. That way:
 
 - The user doesn't need to store an extra password
-- An attacked needs to have access to the users private key to even start an attempt at cracking the OTP codes.
+- An attacker needs to have access to the users private key to even start an attempt at cracking the OTP codes.
 
 ## 🔒 A rough, but full explanation of the security spec can be found [here](https://gist.github.com/iceomatic/fccf555972f21dbede259fd152343a8a)
  
