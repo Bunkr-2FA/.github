@@ -2,7 +2,7 @@
 ![Logo](https://pbs.twimg.com/profile_banners/1627863072772694016/1677531055/1500x500)
 
 
-# 🔓 Bunkr | Fully On-Chain 2FA 
+# 🔓 Bunkr | Fully On-Chain 2FA [V1 deprecated -> V2 on webauthn branch]
 
 Bunkr enables asset protection on Solana by utilizing the widely known TOTP (**T**ime-based **O**ne**T**ime **P**assword) 2FA standard that can be found [here](https://en.wikipedia.org/wiki/Time-based_one-time_password). 
 
